@@ -45,7 +45,3 @@ This project predicts whether a telecom customer will churn using machine learni
 
 ---
 
-## 💻 How to Run
-1. Clone the repo.
-2. Install dependencies:
-
